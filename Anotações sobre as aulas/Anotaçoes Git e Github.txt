@@ -1,7 +1,13 @@
 Usando o git.
 
 git clone = "usado para baixar o arquivo do gitub."
+
 git status= "para saber o status dos arquivos no git."
+
 git add . ou add -A = "para adicionar os arquivos no local antes do commit."
+
 git commit -m = "para preparar os arquivos e auterações antes de enviar ao github (lembtando de sempre incluir um comentário antes de commita)"
+
 git push origin main = " para enviar os arquivos commitados para o github." 
+
+testando.
